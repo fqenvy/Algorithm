@@ -1,4 +1,4 @@
-package cn.fq.stackDemo_2;
+package demo2;
 
 import java.util.Stack;
 
